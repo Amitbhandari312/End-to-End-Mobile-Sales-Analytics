@@ -50,6 +50,10 @@ The dataset contains **749K+ records** with total sales of **₹36.8 Billion**, 
 - Consistent sales peaks observed during specific months
 
 ---
+## 📸 Dashboard Overview
+![Dashboard Overview](<img width="1279" height="717" alt="Screenshot 2025-12-26 224415" src="https://github.com/user-attachments/assets/ef328291-8092-4c06-90b0-df31f20bef56" />
+
+--- 
 
 ## 📂 Repository Structure
 - **Data/** – Raw sales dataset  
